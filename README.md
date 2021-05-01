@@ -8,3 +8,6 @@ https://www.iphoneitalia.com/722146/nuovo-standard-bluetooth-le-audio
 https://www.bluetooth.com/learn-about-bluetooth/recent-enhancements/le-audio/
 
 https://finance.yahoo.com/news/packetcrafts-bluetooth-le-audio-solution-133800440.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEhtbSqkYwtXg6I1vmDnsynEY-zlXmA-6GVAi1tGOjUJ5pbzYSJ7KDR5rW7EezK83jkllexbulX5HIQOyEly8Q5snnWN6QB-yR4pFxcC8pLLtCV14V5hbRTGFeF7R54FUzA1U-OFFn8e_NjpoLD7mlg5OaHmzqI8eijJvvuVVkl1
+
+
+https://www.digikey.it/product-detail/it/nordic-semiconductor-asa/NRF5340-DK/1490-NRF5340-DK-ND/13544603#gallery-2

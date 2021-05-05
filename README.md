@@ -13,3 +13,8 @@ https://finance.yahoo.com/news/packetcrafts-bluetooth-le-audio-solution-13380044
 https://www.digikey.it/product-detail/it/nordic-semiconductor-asa/NRF5340-DK/1490-NRF5340-DK-ND/13544603#gallery-2
 
 https://github.com/Mark-MDO47/AudioPlayer-YX5200
+
+
+Nora B1 module
+https://www.u-blox.com/en/press-releases/u-blox-announces-high-performance-nora-b1-bluetooth-module-advanced-applications
+
